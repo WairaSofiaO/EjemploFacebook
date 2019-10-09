@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EjemploFacebook.iml" filepath="$PROJECT_DIR$/EjemploFacebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploFacebook.iml" filepath="$PROJECT_DIR$/EjemploFacebook.iml" group="EjemploFacebook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EjemploFacebook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EjemploFacebook_main.iml" group="EjemploFacebook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EjemploFacebook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EjemploFacebook_test.iml" group="EjemploFacebook" />
     </modules>
   </component>
 </project>
